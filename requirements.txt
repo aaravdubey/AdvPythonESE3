@@ -1,1 +1,3 @@
-
+cv2
+matplotlib
+nltk
